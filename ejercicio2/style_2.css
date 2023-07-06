@@ -1,0 +1,21 @@
+ul{
+    list-style: none;
+    background-color:whitesmoke; 
+    display: flex;
+    padding: 0;
+    margin: 10px;
+    justify-content: space-evenly;
+ 
+}
+li{
+    font-size: 30px;
+    display: inline-block;
+    margin: 10px;
+    border: 10px solid whitesmoke;
+    background-color: whitesmoke;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}

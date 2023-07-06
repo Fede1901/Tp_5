@@ -1,0 +1,48 @@
+
+h1 {
+    color: red;
+    background-color: white;
+}
+#ejercicio1{
+    color: black;
+    font-size: 30px;
+    background-color: whitesmoke
+
+}
+
+#Formulario{
+    color:black;
+    font-size: 25px;
+    border: 5px solid black;
+    padding: 10px 20px 10px 20px;
+}
+form label{
+    display: block;
+    
+}
+h2{
+    color: green;
+    font-size: 5;
+}
+
+ul{
+    list-style: none;
+    background-color:whitesmoke; 
+    display: flex;
+    padding: 0;
+    margin: 10px;
+    justify-content: space-evenly;
+ 
+}
+li{
+    font-size: 30px;
+    display: inline-block;
+    margin: 10px;
+    border: 5px solid white;
+    background-color: white;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
